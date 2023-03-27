@@ -6,23 +6,23 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
              //--------Owner & vcard--------\\
              global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
-             global.ytname = "YT: ONYXPIKA" // Yt chanel name //
-             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
+             global.ownernumber = ['918943735761'] // Owner number //
+             global.vcardowner = ['918943735764'] // vcard owner number //
+             global.ownername = "abhinandh" // Owner name //
+             global.ytname = "YT: EX MODZ OFC" // Yt chanel name //
+             global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : DARK-MODS11" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
+             global.owner = ['918943735764','919384823403','918943735761']
              global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
-             global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-             global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
-             global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
+             global.linkz = "https://wa.me/+918943735761" // Theme url which will be displayed on whatsapp //
+             global.websitex = "https://github.com/DARK-MODS11" // Website to be displayed //
+             global.botscript = 'https://github.com/DARK-MODS11/Anya-pika-MD-v2' // Script link //
+             global.packname = "ABHI SER🇧🇷" // sticker watermark packname //
+             global.author = "ABHI SER 🇧🇷" // sticker watermark author //
+             actiontitle = 'ABHI SER 🇧🇷' // text who displays on the top of welcome and left message //
+             global.premium = ['918943735761'] // premium numbers //
+             global.headerText = "BOT MAKE BY ABHI SER" // text for header of menus //
+             global.waterMark = "EX MODZ OFC 🇧🇷" // Your own watermark //
 
 global.prefa = ['/','-']
 
